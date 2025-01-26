@@ -1,4 +1,4 @@
-# nixusapp
+nixusapp
 
 A new Flutter project
 
